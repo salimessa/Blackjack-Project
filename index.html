@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Blackjack Game</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h2>Dealer: <span id="dealerTot"></span></h2>
+        <div id="dealerCards">
+            <img id="hidden" src="cards/BACK.png">
+        </div>
+
+        <h2>You: <span id="yourTot"></span></h2>
+        <div id="yourCards"></div>
+
+        <br>
+        <input type="number" id="bet" placeholder="Bet">
+        <button id="betBtn">Bet</button>
+        &ensp;<span id="betText"></span>
+        <br>
+        <br>
+        <button id="hitBtn">Hit</button>
+        <button id="stayBtn">Stay</button>
+        <button id="resetBtn">Reset</button>
+        <p id="results"></p>
+
+        <script src="index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+}
+
+#dealerCards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+
+#yourCards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+
+#hitBtn {
+  background-color: rgb(236, 236, 137);
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+}
+
+#stayBtn {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  background-color: lightgreen;
+}
+
+#bet {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+}
+
+#betBtn {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+}
+
+#resetBtn {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  background-color: lightcoral;
+}
+
+#results {
+  font-size: 25px;
+  font-weight: bold;
+}
