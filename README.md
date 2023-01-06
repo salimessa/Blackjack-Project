@@ -6,6 +6,6 @@ Blackjac is a card game with the objective is to be dealt cards having a higher 
 This game was made with HTML, CSS and Javascript.
 
 Link to game:
-http://127.0.0.1:5500/index.html
+https://salimessa.github.io/Blackjack-Project/
 
 In the future i paln to add different cards to playwith. And add some music to enjoy while playing.
